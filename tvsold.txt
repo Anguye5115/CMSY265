@@ -1,0 +1,88 @@
+987ZYX-01
+Store Brand
+Baseline
+450.00
+987ZYX-02
+Sony
+26 inch 4K
+399.99
+987ZYX-03
+Sony
+26 inch 4K
+399.99
+987ZYX-04
+Sony
+26 inch 4K
+399.99
+987ZYX-05
+LG
+26 inch Plasma
+249.95
+987ZYX-06
+Samsung
+54 inch 4K
+659.95
+987ZYX-07
+Samsung
+54 inch 4K
+659.95
+987ZYX-08
+Samsung
+54 inch 4K
+659.95
+987ZYX-09
+Samsung
+54 inch 4K
+659.95
+987ZYX-10
+Samsung
+54 inch 4K
+659.95
+987ZYX-11
+Samsung
+54 inch 4K
+659.95
+987ZYX-12
+Samsung
+54 inch 4K
+659.95
+987ZYX-13
+Apple
+72 inch iTV
+2229.95
+987ZYX-14
+Sony
+26 inch 4K
+399.99
+987ZYX-15
+Sony
+26 inch 4K
+399.99
+987ZYX-16
+TCL
+48 inch 4K
+289.95
+987ZYX-17
+TCL
+48 inch 4K
+289.95
+987ZYX-18
+TCL
+48 inch 4K
+289.95
+987ZYX-19
+TCL
+48 inch 4K
+289.95
+987ZYX-20
+TCL
+54 inch 4K
+429.95
+987ZYX-21
+TCL
+84 inch 4K
+1599.95
+987ZYX-22
+TCL
+84 inch 4K
+1599.95

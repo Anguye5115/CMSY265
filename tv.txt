@@ -1,0 +1,45 @@
+Store Brand
+Baseline
+450.00
+Sony
+26 inch 4K
+399.99
+LG
+26 inch Plasma
+249.95
+LG
+32 inch 4K
+459.95
+Samsung
+32 inch Plasma
+229.95
+Samsung
+54 inch 4K
+659.95
+Apple
+72 inch iTV
+2229.95
+Sony
+17 inch Plasma
+199.95
+Samsung
+72 inch 4K
+1995.95
+Apple
+54 inch iTV
+1299.95
+LG
+17 inch Plasma
+179.95
+TCL
+48 inch 4K
+289.95
+TCL
+54 inch 4K
+429.95
+TCL
+72 inch 4K
+999.99
+TCL
+84 inch 4K
+1599.95
